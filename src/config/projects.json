@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Project 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eros non elit mattis vulputate vitae in tellus. Sed ligula odio, facilisis nec nisi eget, laoreet ullamcorper justo. Pellentesque mattis consectetur metus, a sollicitudin sapien rhoncus nec. Phasellus a elit ante. Morbi sodales tempus lacus finibus pellentesque. Lorem ipsum.",
+        "image": "images/dog.svg"
+    },
+    {
+        "title": "Project 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eros non elit mattis vulputate vitae in tellus. Sed ligula odio, facilisis nec nisi eget, laoreet ullamcorper justo. Pellentesque mattis consectetur metus, a sollicitudin sapien rhoncus nec. Phasellus a elit ante. Morbi sodales tempus lacus finibus pellentesque. Lorem ipsum.",
+        "image": "images/dog.svg"
+    },
+    {
+        "title": "Project 3",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet eros non elit mattis vulputate vitae in tellus. Sed ligula odio, facilisis nec nisi eget, laoreet ullamcorper justo. Pellentesque mattis consectetur metus, a sollicitudin sapien rhoncus nec. Phasellus a elit ante. Morbi sodales tempus lacus finibus pellentesque. Lorem ipsum.",
+        "image": "images/dog.svg"
+    }
+]
